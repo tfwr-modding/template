@@ -2,8 +2,8 @@
 
     <PropertyGroup>
         <TargetFramework>net46</TargetFramework>
-        <RootNamespace>EcmaScript</RootNamespace>
-        <AssemblyName>EcmaScript</AssemblyName>
+        <RootNamespace>ExampleMod</RootNamespace>
+        <AssemblyName>ExampleMod</AssemblyName>
         <Description>My first plugin</Description>
         <Version>1.0.0</Version>
         <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
