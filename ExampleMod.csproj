@@ -27,6 +27,12 @@
         <Reference Include="Core">
             <HintPath>libs\Core.dll</HintPath>
         </Reference>
+        <Reference Include="Utils">
+            <HintPath>libs\Utils.dll</HintPath>
+        </Reference>
+        <Reference Include="mscorlib">
+            <HintPath>libs\mscorlib.dll</HintPath>
+        </Reference>
     </ItemGroup>
 
     <ItemGroup Condition="'$(TargetFramework.TrimEnd(`0123456789`))' == 'net'">
